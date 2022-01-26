@@ -1,0 +1,3 @@
+Esta pasta, juntamente com o arquivo (Info) contido nela, foram criados com fins de estudos.
+
+Como parte do projeto do curso de Git/GitHub, foi usado o "terminal", para fazer o push dos novos arquivos para o repositório remoto.
